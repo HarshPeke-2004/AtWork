@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="back_color">#696AB7</color>
+
+    <!-- Equivalent of RGBO(51, 51, 102, 1) -->
+    <color name="button_color">#333366</color>
+
+    <!-- Equivalent of Color(0xFF8685E5) -->
+    <color name="another_color">#E5E5E5</color>
+    <color name="lavender">#F4D166</color>
+</resources>
